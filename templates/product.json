@@ -55,9 +55,7 @@
           "type": "related_products",
           "settings": {
             "title": "Completa tu look:",
-            "product_list": [
-
-            ]
+            "product_list": "{{ product.metafields.my_fields.shop_the_look.value }}"
           }
         }
       },

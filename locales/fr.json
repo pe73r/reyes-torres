@@ -165,7 +165,8 @@
       "backorder": "est en rupture de stock et sera envoyé dès qu'il sera disponible",
       "prev_product": "Précédent",
       "next_product": "Suivant",
-      "size_chart": "Tableau des tailles"
+      "size_chart": "Tableau des tailles",
+      "delivery_date": "Le produit sera envoyé de"
     },
     "variant": {
       "no_stock": "Épuisé",
