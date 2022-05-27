@@ -1,0 +1,110 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "full_width": true
+      }
+    },
+    "165226470212b4d79b": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Reyes-620.jpg",
+        "image_width": 700,
+        "subheading": "ASESORA DE IMAGEN",
+        "title": "Soy Reyes Torres",
+        "use_h1": false,
+        "text": "<p>Desde muy pequeña siempre me ha gustado todo lo referente a la estética e imagen personal. Entiendo la moda como una<strong> forma de vida<\/strong>, me visto y me arreglo para gustarme a mi misma y luego para los demás. <\/p><p>Sentirse bien con uno mismo es fundamental para transmitir lo deseado, no es necesario invertir mucho, más que intentar unificar colores y armonizar los estilismos. <\/p><p>Siempre <strong>menos es más y es fundamental ir cómodo<\/strong>, soy de arriesgar poco, pero sí me gusta dar toques en los outfits que lo hagan interesante y diferente.<\/p>",
+        "button_label": "VER MIS COLECCIONES",
+        "button_link": "shopify:\/\/collections",
+        "button_style": "secondary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "16522649733fda20de": {
+      "type": "rich-text",
+      "blocks": {
+        "1652264973f4cc34fb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "\"No hay una segunda oportunidad para causar una buena primera impresión\"",
+            "use_h1": false
+          }
+        },
+        "1652264973f4cc34fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es una frase de Oscar Wilde que está entre mis favoritas así como la frase de Maquiavelo <em>\"Todos ven lo que aparentamos pero pocos ven lo que somos\"<\/em>.  Arranco con esta pequeña colección que me encantará ir ampliando y así poder <strong>compartir juntas este camino<\/strong> que espero y deseo me acompañéis para ir evolucionando.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1652264973f4cc34fb-0",
+        "1652264973f4cc34fb-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1652265138382a8a78": {
+      "type": "product-list",
+      "settings": {
+        "title": "Algunos de mis favoritos",
+        "product_list": [
+          "blusa-verde-agua-manga-abullonada",
+          "camiseta-azul-manga-codo",
+          "camiseta-negra-manga-codo",
+          "cardigan-largo-azul",
+          "cardigan-largo-tostado"
+        ],
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "use_alt_bg": true,
+        "full_width": true
+      }
+    },
+    "1652265404e334d630": {
+      "type": "rich-text",
+      "blocks": {
+        "165226540435128e27-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Todos somos únicos",
+            "use_h1": false
+          }
+        },
+        "165226540435128e27-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>y debemos darle el estilo propio que todos tenemos, yo os puedo inspirar, pero vosotras lo vais a llevar. Aquí estoy para lo que necesitéis y sólo puedo daros las gracias.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165226540435128e27-0",
+        "165226540435128e27-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165226470212b4d79b",
+    "16522649733fda20de",
+    "1652265138382a8a78",
+    "1652265404e334d630"
+  ]
+}

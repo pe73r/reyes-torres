@@ -1,0 +1,270 @@
+{
+  "sections": {
+    "16359276425da8ce46": {
+      "type": "slideshow",
+      "blocks": {
+        "16359276425da8ce46-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Reyes-620.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Reyes-620.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "LAS ÚLTIMAS",
+            "title": "NOVEDADES",
+            "title_size": 56,
+            "title_size_mobile": 46,
+            "text": "<p>de Reyes Torres<\/p>",
+            "enlarge_text": false,
+            "button_label_1": "¡Descúbrelas!",
+            "button_url_1": "shopify:\/\/collections\/coleccion-viscosa",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16359276425da8ce46-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow",
+        "slide_transition": "zoom",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "1635927863703110df": {
+      "type": "rich-text",
+      "blocks": {
+        "1635927863703110df-1": {
+          "type": "heading",
+          "settings": {
+            "title": "\"No hay una segunda oportunidad para causar una buena primera impresión\"",
+            "use_h1": false
+          }
+        },
+        "1635927863703110df-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>está entre mis favoritas así como <em>\"Todos ven lo que aparentamos pero pocos ven lo que somos\"<\/em> de Maquiavelo.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "38951a3a-4164-48ed-bac1-7d7875735587": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon": "heart"
+          }
+        }
+      },
+      "block_order": [
+        "1635927863703110df-1",
+        "1635927863703110df-2",
+        "38951a3a-4164-48ed-bac1-7d7875735587"
+      ],
+      "settings": {
+        "height": "large",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16359278676808bea5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "¡Colección Viscosa!",
+        "collection": "coleccion-viscosa",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": true,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "16359278867b92de38": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Reyes_323_-_copia.jpg",
+        "image_2": "shopify:\/\/shop_images\/Reyes_592.jpg",
+        "image_width": 700,
+        "subheading": "ASESORA DE IMAGEN PERSONAL",
+        "title": "Soy Reyes Torres",
+        "use_h1": false,
+        "text": "<p>desde muy pequeña siempre me ha gustado todo lo referente a la estética e imagen personal. Entiendo la moda como una forma de vida, me visto y me arreglo para gustarme a mi misma y luego para los demás...<\/p>",
+        "button_label": "about me",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "16522587121edd1420": {
+      "type": "slideshow",
+      "blocks": {
+        "165225871242a8a29b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_1.png",
+            "mobile_image": "shopify:\/\/shop_images\/Captura_de_pantalla_2022-05-11_a_las_11.05.01.png",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Made in spain",
+            "title": "Fabricamos\nen España",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "text": "<p><a href=\"\/pages\/made-in-spain\" title=\"Made in Spain\">Leer más<\/a><\/p>",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "165225871242a8a29b-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
+    },
+    "16359281184fd0d618": {
+      "type": "testimonials",
+      "blocks": {
+        "16359281184fd0d618-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Estoy encantada con mi compra, con el trato y con el envío, super rápido!",
+            "author": "Alicia, Granada",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "16359281184fd0d618-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Reyes, adoro o teu estilo e tudo o que vestes. Tenho a vossa marca como referência de vestuário!",
+            "author": "Inés, Portugal",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "15be932c-b708-41fc-b454-4f706651888d": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "My first order to London arrived on time. Finally, I decided to change the dress for another colour and the handling was very easy, thank you Reyes.",
+            "author": "Sigrid, London",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16359281184fd0d618-1",
+        "16359281184fd0d618-0",
+        "15be932c-b708-41fc-b454-4f706651888d"
+      ],
+      "settings": {
+        "title": "OPINIONES",
+        "layout": "no-image",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "use_alt_bg": true,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1652261689326e0b2d": {
+      "type": "logo-list",
+      "blocks": {
+        "b7ab09c0-420c-423d-a030-4f5129376c10": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELLE_Magazine_Logo.svg_20bfdc2a-6a72-4769-88af-57ae77b8820d.png",
+            "image_width": 160,
+            "link": "https:\/\/www.elle.com\/es\/moda\/noticias\/a38157309\/instagramer-asedora-moda-mayor-de-50-looks-basicos-firma-barata\/",
+            "title": ""
+          }
+        },
+        "8c1b9627-a3b8-490f-af84-01bc7ebcdbd7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-amp-plus.png",
+            "image_width": 160,
+            "link": "https:\/\/blog.hola.com\/elblogdecristinatarrega\/2019\/07\/suitkini-la-revolucion-del-look-playero.html",
+            "title": ""
+          }
+        },
+        "8bb52c67-d318-478a-865d-8edf99b86ffe": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Captura_de_pantalla_2022-05-11_a_las_11.38.27.png",
+            "image_width": 160,
+            "link": "https:\/\/www.clara.es\/moda\/looks\/mejores-looks-esta-semana-instagramers-mas-50-anos_23386",
+            "title": ""
+          }
+        },
+        "be932a4d-05b3-4af8-9d5a-4efdee40dc9b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BABU50logo_solo.png",
+            "image_width": 160,
+            "link": "https:\/\/babumagazine.com\/estilo\/moda\/bloggers-baby-boomers-que-tienes-que-seguir\/",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "b7ab09c0-420c-423d-a030-4f5129376c10",
+        "8c1b9627-a3b8-490f-af84-01bc7ebcdbd7",
+        "8bb52c67-d318-478a-865d-8edf99b86ffe",
+        "be932a4d-05b3-4af8-9d5a-4efdee40dc9b"
+      ],
+      "settings": {
+        "title": "",
+        "image_opacity": 100,
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "16359276425da8ce46",
+    "1635927863703110df",
+    "16359278676808bea5",
+    "16359278867b92de38",
+    "16522587121edd1420",
+    "16359281184fd0d618",
+    "1652261689326e0b2d"
+  ]
+}

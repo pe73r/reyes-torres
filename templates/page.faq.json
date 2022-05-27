@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "heading": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Reyes_499_1.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 300,
+        "image_link": "",
+        "subheading": "",
+        "title": "FAQ's",
+        "title_size": 52,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Resolvemos las preguntas más frecuentes que nos soléis hacer. <\/p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "faq-header",
+      "settings": {
+        "title": "Preguntas frecuentes",
+        "use_h1": false,
+        "text": "<p>También puedes utilizar el buscador para encontrar la respuesta más rápido. <\/p>",
+        "show_search": true,
+        "show_index": false,
+        "index_heading": "How can we help?"
+      }
+    },
+    "faq-content-1": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "¿Dónde están fabricados los productos?",
+            "answer": "<p>Nuestros productos están fabricados en <strong>España<\/strong>. En cada producto podrás seleccionar la talla (en algunos hay talla única). Siempre en las descripciones os indicamos las tallas que lleva la modelo de las fotos, en este caso Reyes Torres. <\/p>"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "¿Si tengo duda con la talla, que puedo hacer?",
+            "answer": "<p>Puedes escribirnos al email <a href=\"mailto:info@reyestorres.com\" title=\"mailto:info@reyestorres.com\"><strong>info@reyestorres.com<\/strong><\/a> o rellenar el siguiente <a href=\"\/pages\/contacto\" title=\"Contacto\">formulario<\/a>. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-2",
+        "question-1"
+      ],
+      "settings": {
+        "title": "Producto y formas de pago"
+      }
+    },
+    "faq-content-2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "para-1": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "content": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.<\/p>"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "¿Cuánto cuestan los gastos de envío?",
+            "answer": "<p>Los gastos de envío en Península (España y Portugal) son <strong>gratuitos<\/strong>. <\/p><p><\/p><p>El resto de costes de envío puedes revisarlos <a href=\"\/pages\/politica-de-envios\" title=\"Política de envíos\">aquí.<\/a> <\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "¿Cómo puedo gestionar un cambio?",
+            "answer": "<p>Si quieres realizar un cambio tendrás que seguir los 2 pasos siguientes:<\/p><p><\/p><p>1. Hacer un <strong>nuevo pedido<\/strong> del producto que quieres<\/p><p><\/p><p>2. Gestionar una <strong>devolución<\/strong> del producto que ya no deseeas. Revisa los pasos siguientes de cómo gestionar una devolución.<\/p>"
+          }
+        },
+        "44e3f461-12a4-47b6-ab0f-c5129c361c55": {
+          "type": "question",
+          "settings": {
+            "title": "¿Cómo puedo gestionar una devolución?",
+            "answer": "<p>1. Dispones de <strong>15 días naturales<\/strong> para devolver o cambiar el producto a partir de la recepción del mismo.<\/p><p><br\/>2. El producto deberá <strong>estar etiquetado<\/strong>, en<strong> perfecto estado<\/strong> y <strong>devuelto en su embalaje original.<\/strong> En caso contrario no se devolverá el importe pagado.<\/p><p><br\/>3. En caso de devolución deberás <a href=\"https:\/\/reyestorres.shipping-portal.com\/rp\/\" target=\"_blank\"><strong>pinchar aquí<\/strong><\/a> para gestionar tú recogida y seguir los pasos que se indican durante el proceso. <\/p><p>Si tienes cualquier duda puedes escribirnos a <a href=\"mailto:info@reyestorres.com\" target=\"_blank\">info@reyestorres.com<\/a><\/p><p><br\/>4. El <strong>coste<\/strong> de dicha devolución correrá íntegramente <strong>a cargo del cliente<\/strong>. Una vez registrada y aprobada la devolución se te enviará un <strong>e-mail de confirmación<\/strong>, adjuntando copia del reembolso. El importe reembolsado será el pagado por las prendas devueltas, descontando el coste del envío de la devolución. <\/p><p><\/p><p><a href=\"\/pages\/cambios-y-devoluciones\" title=\"Cambios y devoluciones\">Revisa aquí<\/a> los costes de envío y devoluciones. Nuestra mensajería <strong>NO realiza devoluciones en todos los países<\/strong>, compruébalo en el enlace anterior. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "para-1",
+        "question-1",
+        "question-2",
+        "44e3f461-12a4-47b6-ab0f-c5129c361c55"
+      ],
+      "settings": {
+        "title": "Envíos, cambios y devoluciones"
+      }
+    },
+    "contact": {
+      "type": "rich-text",
+      "blocks": {
+        "icon": {
+          "type": "icon",
+          "settings": {
+            "icon": "heart"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "¡Escríbenos!",
+            "use_h1": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si aún así tienes más dudas...<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "CONTACTO",
+            "button_link": "shopify:\/\/pages\/contacto",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "icon",
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": true
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "main",
+    "faq-content-1",
+    "faq-content-2",
+    "contact"
+  ]
+}

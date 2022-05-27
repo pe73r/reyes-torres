@@ -1,0 +1,90 @@
+{
+  "sections": {
+    "1652724815f7e7bac0": {
+      "type": "rich-text",
+      "blocks": {
+        "1652724815a74c7f22-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Contacto",
+            "use_h1": false
+          }
+        },
+        "1652724815a74c7f22-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>¿Necesitas contactar con nosotros para resolver cualquier cuestión? Puedes escribirnos a <a href=\"mailto:info@reyestorres.com\" target=\"_blank\" title=\"mailto:info@reyestorres.com\"><strong>info@reyestorres.com<\/strong><\/a> y te responderemos a la mayor brevedad posible.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1652724815a74c7f22-0",
+        "1652724815a74c7f22-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "main": {
+      "type": "main-contact",
+      "disabled": true,
+      "blocks": {
+        "name": {
+          "type": "name_input",
+          "disabled": true,
+          "settings": {
+            "half_width": true
+          }
+        },
+        "email": {
+          "type": "email_input",
+          "disabled": true,
+          "settings": {
+            "half_width": true
+          }
+        },
+        "message": {
+          "type": "message_input",
+          "disabled": true,
+          "settings": {
+            "half_width": false
+          }
+        }
+      },
+      "block_order": [
+        "name",
+        "email",
+        "message"
+      ],
+      "settings": {
+        "show_page_title": false,
+        "use_columns": true,
+        "contact_title": "Contacto",
+        "contact_text": "<p>¿Necesitas contactar con nosotros para resolver cualquier cuestión? Puedes rellenar este formulario o escribirnos a <a href=\"mailto:info@reyestorres.com\" target=\"_blank\" title=\"mailto:info@reyestorres.com\"><strong>info@reyestorres.com<\/strong><\/a> y te responderemos a la mayor brevedad posible. <\/p>"
+      }
+    },
+    "1652265892fa56518f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "¡Descubre la última colección!",
+        "collection": "coleccion-viscosa",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": true,
+        "show_view_all": true,
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "1652724815f7e7bac0",
+    "main",
+    "1652265892fa56518f"
+  ]
+}
