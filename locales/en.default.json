@@ -165,7 +165,8 @@
       "backorder": "is backordered and will ship as soon as it is back in stock.",
       "prev_product": "Previous",
       "next_product": "Next",
-      "size_chart": "Size Guide"
+      "size_chart": "Size Guide",
+      "delivery_date": "This product will be shipped"
     },
     "variant": {
       "no_stock": "Sold out",

@@ -275,6 +275,7 @@
               </div>
 
             {% when 'buy_buttons' %}
+
               <div class="buy-buttons-row" {{ block.shopify_attributes }}>
                 {% form 'product', product, id: product_form_id, class: 'form product-purchase-form', data-product-id: product.id %}
                   <select name="id" class="original-selector{% if product.variants.size == 1 %} hidden{% endif %}" aria-label="{{ 'products.product.selector_label' | t | escape }}">
@@ -324,6 +325,15 @@
                             {{ 'products.product.add_to_cart' | t }}
                           {%- endif -%}
                         {%- endcapture -%}
+
+                        {%- if product.metafields.my_fields.preorder_date != blank  -%}
+                          {% assign preorder_date = product.metafields.my_fields.preorder_date | date: "%a, %d %b, %y" %}
+                          <p class="preorder__date">{{ 'products.product.delivery_date' | t }} <span>  {%- render 'date-translate', dateString:preorder_date language:'Spanish' -%}</span></p>
+                          <p class="line-item-property__field hidden">
+                            <input id="date" type="text" name="properties[delivery_date]" value="{{ preorder_date }}">
+                          </p>
+                        {%- endif -%}
+
                         <button class="button button--large" type="submit" data-add-to-cart-text="{{ add_to_cart_text | escape }}">
                           {{- add_to_cart_text -}}
                         </button>
